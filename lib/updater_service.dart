@@ -16,8 +16,8 @@ class GitHubRelease {
 }
 
 class AppUpdateService {
-  static const String _owner = 'josep';
-  static const String _repo = 'iron_dominio';
+  static const String _owner = 'SecOpsJoseph';
+  static const String _repo = 'Iron_Dominio';
   static const String _apiUrl =
       'https://api.github.com/repos/$_owner/$_repo/releases/latest';
 
